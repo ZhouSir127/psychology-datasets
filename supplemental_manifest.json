@@ -1,0 +1,42 @@
+[
+  {
+    "path": "CMU-MOSI/label.csv",
+    "source": "https://drive.usercontent.google.com/download?id=1dqyQI8iOHGjwofgq1DvAD-inW-zrTa2h&export=download&confirm=t",
+    "size_bytes": 219663,
+    "sha256": "dec8b0affc5c7c923688040f091dddb61966afc729f54630ef91d3f51624b821",
+    "status": "downloaded",
+    "publisher_hash_available": false
+  },
+  {
+    "path": "CMU-MOSI/MMSA_README.md",
+    "source": "https://raw.githubusercontent.com/thuiar/MMSA/master/README.md",
+    "size_bytes": 10905,
+    "sha256": "af3f53c715ac3294054d58a84eec2d881754b057bd2d7327098f933448c85d04",
+    "status": "downloaded",
+    "publisher_hash_available": false
+  },
+  {
+    "path": "papers/EAV_article.html",
+    "source": "https://www.nature.com/articles/s41597-024-03838-4",
+    "size_bytes": 410719,
+    "sha256": "ce7529e4d683f2b010513ee84aeaa96cc0b382e015e06f2a1034d6639a6f0927",
+    "status": "downloaded",
+    "publisher_hash_available": false
+  },
+  {
+    "path": "applications/MARS/official_challenge.html",
+    "source": "https://sites.google.com/view/react2026/home",
+    "size_bytes": 189768,
+    "sha256": "15031dabd2e4bfeeb0fb8e0ebdd6a38065a1d6110737dded38397316219e2b6b",
+    "status": "downloaded",
+    "publisher_hash_available": false
+  },
+  {
+    "path": "applications/EAV/Zenodo_record.html",
+    "source": "https://zenodo.org/records/13799131",
+    "size_bytes": 89628,
+    "sha256": "911ed20156873ef3be8a773562bb18253fed934da20d94e406e1c5e62b71b3dc",
+    "status": "downloaded",
+    "publisher_hash_available": false
+  }
+]

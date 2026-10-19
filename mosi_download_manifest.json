@@ -1,0 +1,12 @@
+{
+  "path": "CMU-MOSI/aligned_50.pkl",
+  "source": "https://huggingface.co/datasets/tamb2203579/CMU-MOSI/resolve/main/Processed/aligned_50.pkl?download=true",
+  "status": "downloaded",
+  "size_bytes": 367257274,
+  "sha256": "d3994fd25681f9c7ad6e9c6596a6fe9b4beb85ff7d478ba978b124139002e5f9",
+  "md5": "f65dfe7d63550a7eeb9f63d8f0a15522",
+  "publisher_md5_verified": false,
+  "publisher_sha256_source": "https://github.com/thuiar/MMSA#2-datasets",
+  "expected_sha256": "d3994fd25681f9c7ad6e9c6596a6fe9b4beb85ff7d478ba978b124139002e5f9",
+  "publisher_sha256_verified": true
+}

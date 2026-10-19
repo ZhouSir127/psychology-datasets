@@ -1,0 +1,5 @@
+SAM40/extracted/
+__pycache__/
+*.pyc
+*.part
+.venv/

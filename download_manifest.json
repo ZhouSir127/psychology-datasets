@@ -1,0 +1,77 @@
+{
+  "checked_at": "2026-10-19T16:12:46.872575+00:00",
+  "files": [
+    {
+      "path": "SAM40/Data.rar",
+      "source": "https://ndownloader.figshare.com/files/27937632",
+      "status": "downloaded",
+      "size_bytes": 760372439,
+      "sha256": "58901038ff0d413ab37df753baa58ab155ef8543a343467c76fb228b9f8615fc",
+      "md5": "53fc78152d60bf5e87a0c1a3f2546530",
+      "publisher_md5_verified": true
+    },
+    {
+      "path": "applications/MARS/EULA_MARS_dataset.pdf",
+      "source": "https://raw.githubusercontent.com/reactmultimodalchallenge/baseline_react2026/main/EULA_MARS%20dataset.pdf",
+      "status": "downloaded",
+      "size_bytes": 41407,
+      "sha256": "a26a78d666e71b6591a0ab1865648564d14855d7ca81bfa11522ac275bd683e9",
+      "md5": "ffeb8a1a60e995fea328f5fe0a89bac6",
+      "publisher_md5_verified": false
+    },
+    {
+      "path": "applications/MARS/README_official.md",
+      "source": "https://raw.githubusercontent.com/reactmultimodalchallenge/baseline_react2026/main/README.md",
+      "status": "downloaded",
+      "size_bytes": 38863,
+      "sha256": "e725b38257aea1bb2bd2af2b4cdc00626e2681ad1e66bbb1bb42012931ac6bf1",
+      "md5": "30c936633450f702cf18d3d86c04aece",
+      "publisher_md5_verified": false
+    },
+    {
+      "path": "applications/EAV/README_official.md",
+      "source": "https://raw.githubusercontent.com/nubcico/EAV/main/README.md",
+      "status": "downloaded",
+      "size_bytes": 11891,
+      "sha256": "0493e3f32b2b52564c308adfe19c412a3dca05fdec235fb98bd209ae297811b6",
+      "md5": "4410a06d501e405ce3e3c7086bbcd808",
+      "publisher_md5_verified": false
+    },
+    {
+      "path": "reference_code/EAV-main.zip",
+      "source": "https://codeload.github.com/nubcico/EAV/zip/refs/heads/main",
+      "status": "downloaded",
+      "size_bytes": 226955,
+      "sha256": "ea9c1c5a014bd659328dcefd2a3566b93b8aa1175561ba4c7d90dca8d73f236d",
+      "md5": "97e029aa839a7086c802cbf0958213c6",
+      "publisher_md5_verified": false
+    },
+    {
+      "path": "papers/MARS_REACT2026.pdf",
+      "source": "https://arxiv.org/pdf/2606.07935",
+      "status": "downloaded",
+      "size_bytes": 766753,
+      "sha256": "51c950e56bbdadb42a6ae19b24947c1384dd00a638dab2dc2461be0b92417a6b",
+      "md5": "6411e8af5aeb521c03e27b310686ffce",
+      "publisher_md5_verified": false
+    },
+    {
+      "path": "CMU-MOSI/SDK_README.md",
+      "source": "https://raw.githubusercontent.com/CMU-MultiComp-Lab/CMU-MultimodalSDK/main/README.md",
+      "status": "downloaded",
+      "size_bytes": 16610,
+      "sha256": "f6b79ab8bde1c018af12c5c514d633c271c70b915b70928bd30dd7826013efef",
+      "md5": "15580f80cb794b0266a6592911a1a2bf",
+      "publisher_md5_verified": false
+    },
+    {
+      "path": "CMU-MOSI/MultiBench_download_instructions.rst",
+      "source": "https://raw.githubusercontent.com/pliang279/MultiBench/main/sphinx/source/start/datadownload.rst",
+      "status": "downloaded",
+      "size_bytes": 8527,
+      "sha256": "f3e5e35f550313cdbebb8d50ab028939863e099e7edb5be8abd22b91dcd9a0e5",
+      "md5": "0573c9b7d5ff0595b9999bf3c8d20b20",
+      "publisher_md5_verified": false
+    }
+  ]
+}

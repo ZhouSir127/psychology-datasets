@@ -1,0 +1,163 @@
+{
+  "MOSI": {
+    "train": {
+      "samples": 1284,
+      "shapes": {
+        "audio": [
+          1284,
+          50,
+          5
+        ],
+        "vision": [
+          1284,
+          50,
+          20
+        ],
+        "text": [
+          1284,
+          50,
+          768
+        ],
+        "text_bert": [
+          1284,
+          3,
+          50
+        ]
+      },
+      "nonfinite_values": {
+        "audio": 0,
+        "vision": 0,
+        "text": 0
+      },
+      "sentiment_range": [
+        -3.0,
+        3.0
+      ]
+    },
+    "valid": {
+      "samples": 229,
+      "shapes": {
+        "audio": [
+          229,
+          50,
+          5
+        ],
+        "vision": [
+          229,
+          50,
+          20
+        ],
+        "text": [
+          229,
+          50,
+          768
+        ],
+        "text_bert": [
+          229,
+          3,
+          50
+        ]
+      },
+      "nonfinite_values": {
+        "audio": 0,
+        "vision": 0,
+        "text": 0
+      },
+      "sentiment_range": [
+        -3.0,
+        3.0
+      ]
+    },
+    "test": {
+      "samples": 686,
+      "shapes": {
+        "audio": [
+          686,
+          50,
+          5
+        ],
+        "vision": [
+          686,
+          50,
+          20
+        ],
+        "text": [
+          686,
+          50,
+          768
+        ],
+        "text_bert": [
+          686,
+          3,
+          50
+        ]
+      },
+      "nonfinite_values": {
+        "audio": 0,
+        "vision": 0,
+        "text": 0
+      },
+      "sentiment_range": [
+        -3.0,
+        3.0
+      ]
+    },
+    "total_samples": 2199,
+    "video_overlap_between_splits": {
+      "train_valid": 0,
+      "train_test": 0,
+      "valid_test": 0
+    },
+    "eeg_present": false,
+    "raw_audio_video_present": false
+  },
+  "SAM40": {
+    "subjects": 40,
+    "raw_trials": 480,
+    "filtered_trials": 480,
+    "unique_paired_trials": 480,
+    "task_counts": {
+      "Arithmetic": 120,
+      "Relax": 120,
+      "Stroop": 120,
+      "Symmetric": 120
+    },
+    "shape_counts": {
+      "raw": {
+        "(32, 3200)": 480
+      },
+      "filtered": {
+        "(32, 3200)": 480
+      }
+    },
+    "invalid_shape_or_nonfinite_files": [],
+    "self_rating_entries": 360,
+    "self_rating_range": [
+      1.0,
+      10.0
+    ],
+    "rating_distribution": {
+      "6.0": 57,
+      "3.0": 58,
+      "7.0": 32,
+      "5.0": 77,
+      "2.0": 25,
+      "4.0": 54,
+      "8.0": 24,
+      "1.0": 19,
+      "9.0": 10,
+      "10.0": 4
+    },
+    "relax_rating_policy": "Not present in scales.xls; left empty, never invented",
+    "example_split_subject_counts": {
+      "train": 28,
+      "valid": 6,
+      "test": 6
+    },
+    "example_split_seed": 2026,
+    "audio_text_video_present": false
+  },
+  "four_modal_synchronized_dataset_downloaded": false,
+  "five_level_psychological_risk_ground_truth_available": false,
+  "models_trained": false
+}

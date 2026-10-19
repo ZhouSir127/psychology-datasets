@@ -1,0 +1,220 @@
+{
+  "files": [
+    {
+      "id": 27937632,
+      "name": "Data.rar",
+      "size": 760372439,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/27937632",
+      "supplied_md5": "53fc78152d60bf5e87a0c1a3f2546530",
+      "computed_md5": "53fc78152d60bf5e87a0c1a3f2546530",
+      "mimetype": "application/x-rar-compressed"
+    }
+  ],
+  "folder_structure": {},
+  "authors": [
+    {
+      "id": 10210034,
+      "full_name": "BCI Lab GU",
+      "first_name": "BCI Lab",
+      "last_name": "GU",
+      "is_active": true,
+      "url_name": "BCI_Lab_GU",
+      "orcid_id": ""
+    },
+    {
+      "id": 10310346,
+      "full_name": "Rajdeep Ghosh",
+      "first_name": "Rajdeep",
+      "last_name": "Ghosh",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": "0000-0001-6938-9956"
+    },
+    {
+      "id": 10297374,
+      "full_name": "Nabamita Deb",
+      "first_name": "Nabamita",
+      "last_name": "Deb",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 10310146,
+      "full_name": "Kaushik Sengupta",
+      "first_name": "Kaushik",
+      "last_name": "Sengupta",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 10297442,
+      "full_name": "Anurag Phukan",
+      "first_name": "Anurag",
+      "last_name": "Phukan",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 10297405,
+      "full_name": "Nitin Choudhury",
+      "first_name": "Nitin",
+      "last_name": "Choudhury",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 10310330,
+      "full_name": "Sreshtha Kashyap",
+      "first_name": "Sreshtha",
+      "last_name": "Kashyap",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 10310344,
+      "full_name": "Souvik Phadikar",
+      "first_name": "Souvik",
+      "last_name": "Phadikar",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 10769027,
+      "full_name": "Ramesh Saha",
+      "first_name": "Ramesh",
+      "last_name": "Saha",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 10310345,
+      "full_name": "Pranesh Das",
+      "first_name": "Pranesh",
+      "last_name": "Das",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 10310351,
+      "full_name": "Nidul Sinha",
+      "first_name": "Nidul",
+      "last_name": "Sinha",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 628712,
+      "full_name": "Priyanka Dutta",
+      "first_name": "Priyanka",
+      "last_name": "Dutta",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    }
+  ],
+  "custom_fields": [],
+  "figshare_url": "https://figshare.com/articles/dataset/SAM_40_Dataset_of_40_Subject_EEG_Recordings_to_Monitor_the_Induced-Stress_while_performing_Stroop_Color-Word_Test_Arithmetic_Task_and_Mirror_Image_Recognition_Task/14560530",
+  "download_disabled": false,
+  "description": "This dataset presents a collection of electroencephalographic (EEG) data recorded from 40 subjects (female: 14, male: 26, mean age: 21.5 years). The dataset was recorded from the subjects while performing various tasks such as: Stroop color-word test (SCWT), solving arithmetic questions, identification of symmetric mirror images, and a state of relaxation. Three trials were recorded for each of the individual tasks. The experiment was primarily conducted to monitor the short-term stress elicited in an individual while performing the aforementioned cognitive tasks. 32-channel EEG was recorded using the Emotiv Epoc Flex gel kit. The EEG data were further processed to remove the baseline drifts by subtracting the average trend obtained using the Savitzky-Golay filter. Furthermore, the artifacts were removed by applying wavelet thresholding. The processed data was then segmented into non-overlapping epochs of 25 seconds depending on the various tasks performed by the subjects.",
+  "funding": "The research work is funded by NPIU-MHRD, Govt. of India under the CRS Project entitled “Monitoring Stress in Students using EEG” with CRS-Id-:- 1-5770264050.",
+  "funding_list": [
+    {
+      "id": 20084673,
+      "title": "The research work is funded by NPIU-MHRD, Govt. of India under the CRS Project entitled “Monitoring Stress in Students using EEG” with CRS-Id-:- 1-5770264050.",
+      "grant_code": "",
+      "funder_name": null,
+      "is_user_defined": 1
+    }
+  ],
+  "version": 1,
+  "status": "public",
+  "size": 760372439,
+  "created_date": "2021-05-08T17:53:23Z",
+  "modified_date": "2021-05-09T14:39:05Z",
+  "is_public": true,
+  "is_confidential": false,
+  "is_metadata_record": false,
+  "confidential_reason": "",
+  "metadata_reason": "",
+  "license": {
+    "value": 1,
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "tags": [
+    "BCI systems",
+    "EEG",
+    "Stroop Color Word Test",
+    "Short term stress monitoring",
+    "Emotiv Epoc",
+    "Biomedical Engineering not elsewhere classified",
+    "Cognitive Science not elsewhere classified"
+  ],
+  "keywords": [
+    "BCI systems",
+    "EEG",
+    "Stroop Color Word Test",
+    "Short term stress monitoring",
+    "Emotiv Epoc",
+    "Biomedical Engineering not elsewhere classified",
+    "Cognitive Science not elsewhere classified"
+  ],
+  "categories": [
+    {
+      "id": 26299,
+      "title": "Biomedical engineering not elsewhere classified",
+      "parent_id": 26263,
+      "path": "/26212/26263/26299",
+      "source_id": "400399",
+      "taxonomy_id": 100
+    },
+    {
+      "id": 30391,
+      "title": "Cognitive and computational psychology not elsewhere classified",
+      "parent_id": 30370,
+      "path": "/30292/30370/30391",
+      "source_id": "520499",
+      "taxonomy_id": 100
+    }
+  ],
+  "references": [],
+  "has_linked_file": false,
+  "citation": "GU, BCI Lab; Ghosh, Rajdeep; Deb, Nabamita; Sengupta, Kaushik; Phukan, Anurag; Choudhury, Nitin; et al. (2021). SAM 40: Dataset of 40 Subject EEG Recordings to Monitor the Induced-Stress while performing Stroop Color-Word Test, Arithmetic Task, and Mirror Image Recognition Task. figshare. Dataset. https://doi.org/10.6084/m9.figshare.14560530.v1",
+  "related_materials": [],
+  "is_embargoed": false,
+  "embargo_date": null,
+  "embargo_type": "file",
+  "embargo_title": "",
+  "embargo_reason": "",
+  "embargo_options": [],
+  "id": 14560530,
+  "title": "SAM 40: Dataset of 40 Subject EEG Recordings to Monitor the Induced-Stress while performing Stroop Color-Word Test, Arithmetic Task, and Mirror Image Recognition Task",
+  "doi": "10.6084/m9.figshare.14560530.v1",
+  "handle": "",
+  "url": "https://api.figshare.com/v2/articles/14560530",
+  "published_date": "2021-05-08T17:53:23Z",
+  "thumb": "",
+  "defined_type": 3,
+  "defined_type_name": "dataset",
+  "group_id": null,
+  "url_private_api": "https://api.figshare.com/v2/account/articles/14560530",
+  "url_public_api": "https://api.figshare.com/v2/articles/14560530",
+  "url_private_html": "https://figshare.com/account/articles/14560530",
+  "url_public_html": "https://figshare.com/articles/dataset/SAM_40_Dataset_of_40_Subject_EEG_Recordings_to_Monitor_the_Induced-Stress_while_performing_Stroop_Color-Word_Test_Arithmetic_Task_and_Mirror_Image_Recognition_Task/14560530",
+  "timeline": {
+    "posted": "2021-05-08T17:53:23",
+    "firstOnline": "2021-05-08"
+  },
+  "resource_title": null,
+  "resource_doi": null
+}
